@@ -1,0 +1,13 @@
+Package: MIAMI
+Type: Package
+Title: Calculates NPP from temperature or precipitation 
+Version: 0.1.0
+Authors@R: person("Marvin", "Beckert", email = "m.beckert@abdn.ac.uk",
+  role = c("aut", "cre"))
+Description: Based on the Lieth (1973) MIAMI model, this function estimates NPP of an ecosytem from average tempereture or precipitation data
+License:GPL (>= 2) 
+Encoding: UTF-8
+LazyData: true
+URL: http://github.com/Mavbegg/MIAMI
+BugReports: http://github.com/Mavbegg/MIAMI/issues
+RoxygenNote: 6.0.1
