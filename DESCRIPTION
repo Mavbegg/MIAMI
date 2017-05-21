@@ -1,6 +1,6 @@
 Package: MIAMI
 Type: Package
-Title: Calculates NPP from temperature or precipitation 
+Title: Calculates NPP from temperature or precipitation data
 Version: 0.1.0
 Authors@R: person("Marvin", "Beckert", email = "m.beckert@abdn.ac.uk",
   role = c("aut", "cre"))
